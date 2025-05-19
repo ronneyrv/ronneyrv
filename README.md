@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello 👋, I'm Ronney</h1>
 
 <p align="center">
@@ -10,25 +8,27 @@
 
 ### 🛠️ Backend
 <p>
-  <strong>Techs:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-  &nbsp;🌐 REST API
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <strong>Techs:</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react" height="40" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" title="SASS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <strong>Techs:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
 </p>
 
-### ⚙️ Tools
+### ⚙️ Tools & Others
 <p>
-  <strong>Environment & Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=vscode,php,git,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
 </p>
