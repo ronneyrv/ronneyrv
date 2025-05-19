@@ -1,14 +1,34 @@
-### Hello 👋
+### Hi there 👋
 
-My name is Ronney, I'm a Full Stack developer in construction, learning for new skills and knowledge in web programming. I'm excited to develop innovative solutions.
+<h1 align="center">Hello 👋, I'm Ronney</h1>
+
+<p align="center">
+  I'm a passionate <strong>Full Stack Developer</strong> focused on building scalable backend systems and modern frontend interfaces.
+</p>
+
+---
+
+### 🛠️ Backend
 <p>
- - technologies:<p>
- <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,nodejs,react,mysql,git,github" height:"50"/><p><br>
+  <strong>Techs:</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+  &nbsp;🌐 REST API
+</p>
 
+### 🎨 Frontend
+<p>
+  <strong>Techs:</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react" height="40" />
+</p>
 
- <a href="https://linkedin.com/in/ronney-rocha-6a045466">contact<p>
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30px"/> 
- </a>
-<a href="https://mail.google.com/mail"><p>
-    <img src="https://skillicons.dev/icons?i=gmail" width="30px"/> 
- </a>
+### 🗄️ Database
+<p>
+  <strong>Techs:</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <strong>Environment & Tools:</strong><br>
+  <img src="https://skillicons.dev/icons?i=vscode,php,git,github" height="40" />
+</p>
