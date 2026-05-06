@@ -12,8 +12,8 @@
 ### 🚀 Sobre Mim
 * 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 * 🏭 Background em **Engenharia de Produção**, trazendo foco em processos e eficiência.
-* 💻 Desenvolvendo projetos Full Stack com foco em **Node.js, Express e React**.
-* 📍 Baseado em Fortaleza, Ceará.
+* 💻 Desenvolvendo projetos Full Stack com foco em **Java, Spring Boot, Node.js e React**.
+* 📍 Fortaleza, Ceará.
 * 🌍 Inglês em constante evolução.
 
 ---
@@ -22,17 +22,30 @@
 
 #### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,mysql,sqlserver" height="40" title="Backend e Banco de Dados" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="Postgres" />
 </p>
 
 #### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" height="40" title="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
 </p>
 
 #### **Ferramentas & Outros**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="40" title="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" title="Intellij" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" title="Jest" />
 </p>
 
 ---
