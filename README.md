@@ -96,25 +96,22 @@ https://portfolio-api-5kec.onrender.com/swagger-ui/index.html
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronneyrv&show_icons=true&theme=github_dark"/>
+<img align="middle" width="31%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronneyrv&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ronneyrv&theme=github-dark"/>
+<img align="middle" width="28%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronneyrv&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
 
-</div>
-
-## 💻 Linguagens mais utilizadas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronneyrv&layout=compact&theme=github_dark"/>
+<img align="middle" width="31%" src="https://streak-stats.demolab.com?user=ronneyrv&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d"/>
 
 </div>
 
 ---
 ## 📫 Contato
 
-LinkedIn:
-www.linkedin.com/in/ronney-rocha
+🔗 LinkedIn  
+https://www.linkedin.com/in/ronney-rocha
 
-E-mail:
+📧 E-mail  
 ronneyrv@gmail.com
+
+📱 Telefone  
++55 (85) 98208-4082
