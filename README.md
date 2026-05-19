@@ -1,73 +1,120 @@
-<h1 align="center">Olá 👋, eu sou o Ronney da Rocha Vieira</h1>
+# Olá 👋 Eu sou Ronney da Rocha Vieira
 
-<p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong>
-</p>
+Desenvolvedor Full Stack com foco crescente em Back-end, graduado em Engenharia de Produção e graduando em Análise e Desenvolvimento de Sistemas.
 
-<p>
-  Apaixonado por <strong>Desenvolvimento Full Stack</strong>, com foco em criação de sistemas escaláveis e interfaces modernas.
-</p>
-
-
-### 🚀 Sobre Mim
-* 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
-* 🏭 Background em **Engenharia de Produção**, trazendo foco em processos e eficiência.
-* 💻 Desenvolvendo projetos Full Stack com foco em **Java, Spring Boot, Node.js e React**.
-* 📍 Fortaleza, Ceará.
-* 🌍 Inglês em constante evolução.
+Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacional, criando soluções desde modelagem de banco de dados até desenvolvimento de APIs, interfaces e regras de negócio.
 
 ---
 
-### 🛠️ Minha Stack Técnica
+## 🚀 Sobre mim
 
-#### **Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="Postgres" />
-</p>
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (FBUni)
 
-#### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-</p>
+🏭 Background em Engenharia de Produção com foco em processos, eficiência e resolução de problemas
 
-#### **Ferramentas & Outros**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" title="Intellij" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" title="Jest" />
-</p>
+💻 Experiência prática utilizando:
+- Java
+- Spring Boot
+- React
+- Node.js
+- PostgreSQL
+- APIs REST
+
+🔎 Em transição para desenvolvimento de software com especialização crescente em Back-end Java
+
+📍 Fortaleza, Ceará — Brasil
+
+🌎 Inglês: Intermediário
 
 ---
 
-### 📈 Atividade no GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronneyrv&theme=radical" alt="GitHub Streak" />
-</p>
+## 🛠️ Stack Tecnológica
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/ronney-rocha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-  <a href="mailto:ronneeyrv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🚢 Projetos em destaque
 
-<p align="right">
-  <i>"A tecnologia move o mundo, mas a engenharia o torna eficiente."</i>
-</p>
+### Portal PPTM
+
+Sistema de gerenciamento operacional desenvolvido para apoio a atividades portuárias.
+
+Principais funcionalidades:
+
+✔️ Dashboards operacionais  
+✔️ Indicadores e gráficos  
+✔️ Integração frontend/backend  
+✔️ Regras de negócio  
+✔️ Consultas SQL complexas
+
+Tecnologias:
+
+`React` `Node.js` `SQL`
+
+🔗 App: https://github.com/ronneyrv/app-portal
+
+🔗 API: https://github.com/ronneyrv/api-portal
+
+---
+
+### 💻 Portfólio Full Stack
+
+Aplicação em desenvolvimento para apresentação profissional e demonstração de projetos.
+
+Tecnologias:
+
+`React` `Java` `Spring Boot` `PostgreSQL`
+
+Documentação:
+
+https://portfolio-api-5kec.onrender.com/swagger-ui/index.html
+
+---
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronneyrv&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=ronneyrv&theme=github-dark"/>
+
+</div>
+
+## 💻 Linguagens mais utilizadas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronneyrv&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+## 📫 Contato
+
+LinkedIn:
+www.linkedin.com/in/ronney-rocha
+
+E-mail:
+ronneyrv@gmail.com
