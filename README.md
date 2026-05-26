@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou Ronney da Rocha Vieira
+# Ronney da Rocha Vieira
 
 Desenvolvedor Full Stack com foco crescente em Back-end, graduado em Engenharia de Produção e graduando em Análise e Desenvolvimento de Sistemas.
 
@@ -55,42 +55,49 @@ Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacio
 
 ---
 
-## 🚢 Projetos em destaque
-
-### Portal PPTM
-
-Sistema de gerenciamento operacional desenvolvido para apoio a atividades portuárias.
-
-Principais funcionalidades:
-
-✔️ Dashboards operacionais  
-✔️ Indicadores e gráficos  
-✔️ Integração frontend/backend  
-✔️ Regras de negócio  
-✔️ Consultas SQL complexas
-
-Tecnologias:
-
-`React` `Node.js` `SQL`
-
-🔗 App: https://github.com/ronneyrv/app-portal
-
-🔗 API: https://github.com/ronneyrv/api-portal
+## 🚀 Projetos em Destaque
 
 ---
 
 ### 💻 Portfólio Full Stack
 
-Aplicação em desenvolvimento para apresentação profissional e demonstração de projetos.
+Uma aplicação robusta desenvolvida para apresentação profissional, exibição de competências e demonstração de projetos reais.
 
-Tecnologias:
+#### 🛠️ Tecnologias Utilizadas
 
-`React` `Java` `Spring Boot` `PostgreSQL`
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Frontend** | `React` `TypeScript` |
+| **Backend** | `Java` `Spring Boot` |
+| **Banco de Dados** | `PostgreSQL` |
 
-Documentação:
+#### 🔗 Links do Projeto
+* **Demonstração Online:** [Visualizar App (Vercel)](https://portfolio-web-chi-blush.vercel.app/)
+* **Documentação da API:** [Swagger UI (Render)](https://portfolio-api-5kec.onrender.com/swagger-ui/index.html)
+* **Repositório Frontend:** [GitHub - portfolio-web](https://github.com/ronneyrv/portfolio-web)
+* **Repositório API:** [GitHub - portfolio-api](https://github.com/ronneyrv/portfolio-api)
 
-https://portfolio-api-5kec.onrender.com/swagger-ui/index.html
+> [!NOTE]
+> Como a API está hospedada no plano gratuito do **Render**, o servidor entra em modo de repouso após períodos de inatividade. Ao acessar a documentação ou interagir com o app pela primeira vez, **a aplicação pode levar cerca de 2 minutos para iniciar**.
+---
 
+### ⚓ Portal PPTM
+
+Sistema de gerenciamento operacional desenvolvido especificamente para o apoio e otimização de atividades portuárias.
+
+#### ✨ Principais Funcionalidades
+* 📊 **Dashboards Operacionais:** Visualização ágil do status das operações.
+* 📈 **Indicadores e Gráficos:** Análise de dados em tempo real para tomada de decisão.
+* 🔄 **Integração Full Stack:** Comunicação fluida e segura entre frontend e backend.
+* 🧠 **Regras de Negócio:** Automatização de fluxos e validações complexas do setor.
+* 🗄️ **Consultas SQL Complexas:** Extração e manipulação de dados de alta performance.
+
+#### 🛠️ Tecnologias Utilizadas
+* `React` • `Node.js` • `SQL`
+
+#### 🔗 Links do Projeto
+* **Repositório Frontend:** [GitHub - app-portal](https://github.com/ronneyrv/app-portal)
+* **Repositório API:** [GitHub - api-portal](https://github.com/ronneyrv/api-portal)
 ---
 ## 📊 Estatísticas GitHub
 
