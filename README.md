@@ -6,13 +6,13 @@ Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacio
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas (FBUni)
+Graduando em Análise e Desenvolvimento de Sistemas (FBUni)
 
-🏭 Background em Engenharia de Produção com foco em processos, eficiência e resolução de problemas
+Background em Engenharia de Produção com foco em processos, eficiência e resolução de problemas
 
-💻 Experiência prática utilizando:
+Experiência prática utilizando:
 - Java
 - Spring Boot
 - React
@@ -20,15 +20,15 @@ Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacio
 - PostgreSQL
 - APIs REST
 
-🔎 Em transição para desenvolvimento de software com especialização crescente em Back-end Java
+Em transição para desenvolvimento de software com especialização crescente em Back-end Java
 
-📍 Fortaleza, Ceará — Brasil
+Fortaleza, Ceará — Brasil
 
-🌎 Inglês: Intermediário
+Inglês: Intermediário
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Backend
 
@@ -55,15 +55,15 @@ Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacio
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 ---
 
-### 💻 Portfólio Full Stack
+### Portfólio Full Stack
 
 Uma aplicação robusta desenvolvida para apresentação profissional, exibição de competências e demonstração de projetos reais.
 
-#### 🛠️ Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 
 | Camada | Tecnologias |
 | :--- | :--- |
@@ -71,7 +71,7 @@ Uma aplicação robusta desenvolvida para apresentação profissional, exibiçã
 | **Backend** | `Java` `Spring Boot` |
 | **Banco de Dados** | `PostgreSQL` |
 
-#### 🔗 Links do Projeto
+#### Links do Projeto
 * **Demonstração Online:** [Visualizar App (Vercel)](https://portfolio-web-chi-blush.vercel.app/)
 * **Documentação da API:** [Swagger UI (Render)](https://portfolio-api-5kec.onrender.com/swagger-ui/index.html)
 * **Repositório Frontend:** [GitHub - portfolio-web](https://github.com/ronneyrv/portfolio-web)
@@ -85,21 +85,21 @@ Uma aplicação robusta desenvolvida para apresentação profissional, exibiçã
 
 Sistema de gerenciamento operacional desenvolvido especificamente para o apoio e otimização de atividades portuárias.
 
-#### ✨ Principais Funcionalidades
-* 📊 **Dashboards Operacionais:** Visualização ágil do status das operações.
-* 📈 **Indicadores e Gráficos:** Análise de dados em tempo real para tomada de decisão.
-* 🔄 **Integração Full Stack:** Comunicação fluida e segura entre frontend e backend.
-* 🧠 **Regras de Negócio:** Automatização de fluxos e validações complexas do setor.
-* 🗄️ **Consultas SQL Complexas:** Extração e manipulação de dados de alta performance.
+#### Principais Funcionalidades
+* **Dashboards Operacionais:** Visualização ágil do status das operações.
+* **Indicadores e Gráficos:** Análise de dados em tempo real para tomada de decisão.
+* **Integração Full Stack:** Comunicação fluida e segura entre frontend e backend.
+* **Regras de Negócio:** Automatização de fluxos e validações complexas do setor.
+* **Consultas SQL Complexas:** Extração e manipulação de dados de alta performance.
 
-#### 🛠️ Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 * `React` • `Node.js` • `SQL`
 
-#### 🔗 Links do Projeto
+#### Links do Projeto
 * **Repositório Frontend:** [GitHub - app-portal](https://github.com/ronneyrv/app-portal)
 * **Repositório API:** [GitHub - api-portal](https://github.com/ronneyrv/api-portal)
 ---
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Sistema de gerenciamento operacional desenvolvido especificamente para o apoio e
 </div>
 
 ---
-## 📫 Contato
+## Contato
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/ronney-rocha
