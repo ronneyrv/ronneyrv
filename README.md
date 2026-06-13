@@ -81,7 +81,7 @@ Uma aplicação robusta desenvolvida para apresentação profissional, exibiçã
 > Como a API está hospedada no plano gratuito do **Render**, o servidor entra em modo de repouso após períodos de inatividade. Ao acessar a documentação ou interagir com o app pela primeira vez, **a aplicação pode levar cerca de 2 minutos para iniciar**.
 ---
 
-### ⚓ Portal PPTM
+### Portal PPTM
 
 Sistema de gerenciamento operacional desenvolvido especificamente para o apoio e otimização de atividades portuárias.
 
