@@ -1,124 +1,284 @@
-# Ronney da Rocha Vieira
+# Ronney Rocha
 
-Desenvolvedor Full Stack com foco crescente em Back-end, graduado em Engenharia de Produção e graduando em Análise e Desenvolvimento de Sistemas.
+## Full Stack Developer | Java | Spring Boot | React | TypeScript
 
-Atualmente desenvolvo aplicações e ferramentas utilizadas em ambiente operacional, criando soluções desde modelagem de banco de dados até desenvolvimento de APIs, interfaces e regras de negócio.
+Full Stack Developer focused on Java and Spring Boot, with practical experience building web applications, REST APIs, relational databases, and production-oriented software.
 
----
+I enjoy turning real business and operational problems into reliable software solutions, combining software engineering practices with my background in Production Engineering.
 
-## Sobre mim
+Currently pursuing a degree in Systems Analysis and Development while continuously deepening my backend expertise with Java, Spring Boot, databases, testing, security, CI/CD, and production deployment.
 
-Graduando em Análise e Desenvolvimento de Sistemas (FBUni)
-
-Background em Engenharia de Produção com foco em processos, eficiência e resolução de problemas
-
-Experiência prática utilizando:
-- Java
-- Spring Boot
-- React
-- Node.js
-- PostgreSQL
-- APIs REST
-
-Em transição para desenvolvimento de software com especialização crescente em Back-end Java
-
-Fortaleza, Ceará — Brasil
-
-Inglês: Intermediário
+[🇧🇷 Read the Portuguese version](README.pt-BR.md)
 
 ---
 
-## Stack Tecnológica
+## About Me
+
+I am a Full Stack Developer with a growing specialization in backend development using Java and Spring Boot.
+
+My background in Production Engineering has given me a strong foundation in process analysis, problem solving, operational efficiency, business rules, data-driven decision making, and continuous improvement.
+
+I apply this background to software development by focusing not only on writing code, but also on understanding the problem being solved and designing maintainable solutions.
+
+I have practical experience across the stack, from database modeling and REST APIs to frontend interfaces, authentication, business rules, testing, deployment, and production infrastructure.
+
+Currently based in Fortaleza, Ceará, Brazil.
+
+---
+
+## What I Build
+
+My focus is on applications that go beyond basic CRUD implementations.
+
+I have practical experience with:
+
+- REST APIs
+- Backend services with Java and Spring Boot
+- Authentication and authorization
+- Relational database design
+- Financial and business domain modeling
+- React and TypeScript applications
+- Data visualization and analytical dashboards
+- Automated testing
+- CI/CD pipelines
+- Docker-based environments
+- Production deployment
+- Application health monitoring
+- Backup and disaster recovery strategies
+
+---
+
+# Featured Project
+
+## Finance Family
+
+### Production-Oriented Full-Stack Finance Platform
+
+Finance Family is my main portfolio project and the most complete demonstration of my current software engineering skills.
+
+It is a full-stack platform designed for personal and household financial management, developed with a strong focus on domain modeling, security, testing, infrastructure, deployment safety, and maintainability.
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+[Finance Family API](https://github.com/ronneyrv/finance-family-api)
+
+Built with Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, JPA/Hibernate, Flyway, Gradle, Docker, Testcontainers, and GitHub Actions.
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Finance Family Web](https://github.com/ronneyrv/finance-family-web)
 
-### Banco de Dados
+Built with React, TypeScript, Vite, Tailwind CSS, Axios, Recharts, Vitest, React Testing Library, and Vercel.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Main Features
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- User authentication and authorization
+- Financial account management
+- Income and expense transactions
+- Categories and subcategories
+- Credit card management
+- Credit card purchases and installments
+- Invoice management and payment
+- Recurring transactions
+- Internal transfers between financial accounts
+- Financial dashboards
+- Financial health analysis
+- Income commitment analysis
+- Category-based financial analysis
+- Monthly and annual financial indicators
+- Responsive web interface
 
-### Ferramentas
+### Engineering Practices
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Layered backend architecture
+- Domain-oriented organization
+- Feature-based frontend architecture
+- Reusable UI components
+- Centralized API integration
+- JWT-based security
+- Database migrations with Flyway
+- Integration testing
+- PostgreSQL Testcontainers
+- Dockerized environments
+- GitHub Actions
+- Automated deployment
+- Production health checks
+- Immutable deployment strategy
+- Automated rollback
+- PostgreSQL backup strategy
+- Disaster recovery procedures
+- Automated frontend testing
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+The project is continuously developed through issues, feature branches, pull requests, code reviews, testing, and incremental improvements.
+
+---
+
+# Other Projects
+
+## Portal PPTM
+
+### Operational Management Platform
+
+A full-stack operational management platform developed to support and optimize activities in a port operations environment.
+
+The project combines software development with real operational requirements and business rules.
+
+### Main Capabilities
+
+- Operational dashboards
+- Data visualization
+- Operational indicators
+- Business rule automation
+- Complex SQL queries
+- Full-stack integration
+- Operational workflow support
+
+### Technologies
+
+- React
+- Node.js
+- SQL
+
+### Repositories
+
+- [Frontend — app-portal](https://github.com/ronneyrv/app-portal)
+- [Backend — api-portal](https://github.com/ronneyrv/api-portal)
+
+This project represents practical experience connecting software development with operational processes and real-world business requirements.
 
 ---
 
-## Projetos em Destaque
+## Portfolio Full Stack
+
+A full-stack portfolio application created to present projects, technical skills, and professional information through a complete web application.
+
+### Technologies
+
+- React
+- TypeScript
+- Java
+- Spring Boot
+- PostgreSQL
+
+### Resources
+
+- [Live Application](https://ronneyrocha.com.br/)
+- [Frontend Repository](https://github.com/ronneyrv/portfolio-web)
+- [Backend Repository](https://github.com/ronneyrv/portfolio-api)
 
 ---
 
-### Portfólio Full Stack
+# Technical Stack
 
-Uma aplicação robusta desenvolvida para apresentação profissional, exibição de competências e demonstração de projetos reais.
+## Backend
 
-#### Tecnologias Utilizadas
+Java · Spring Boot · Spring Security · REST APIs · JPA / Hibernate · Node.js
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Frontend** | `React` `TypeScript` |
-| **Backend** | `Java` `Spring Boot` |
-| **Banco de Dados** | `PostgreSQL` |
+## Frontend
 
-#### Links do Projeto
-* **Demonstração Online:** [Visualizar App (Vercel)](https://portfolio-web-chi-blush.vercel.app/)
-* **Documentação da API:** [Swagger UI (Render)](https://portfolio-api-5kec.onrender.com/swagger-ui/index.html)
-* **Repositório Frontend:** [GitHub - portfolio-web](https://github.com/ronneyrv/portfolio-web)
-* **Repositório API:** [GitHub - portfolio-api](https://github.com/ronneyrv/portfolio-api)
+React · TypeScript · JavaScript · Vite · Tailwind CSS · Recharts
 
-> [!NOTE]
-> Como a API está hospedada no plano gratuito do **Render**, o servidor entra em modo de repouso após períodos de inatividade. Ao acessar a documentação ou interagir com o app pela primeira vez, **a aplicação pode levar cerca de 2 minutos para iniciar**.
----
+## Databases
 
-### Portal PPTM
+PostgreSQL · MySQL · SQL
 
-Sistema de gerenciamento operacional desenvolvido especificamente para o apoio e otimização de atividades portuárias.
+## Testing
 
-#### Principais Funcionalidades
-* **Dashboards Operacionais:** Visualização ágil do status das operações.
-* **Indicadores e Gráficos:** Análise de dados em tempo real para tomada de decisão.
-* **Integração Full Stack:** Comunicação fluida e segura entre frontend e backend.
-* **Regras de Negócio:** Automatização de fluxos e validações complexas do setor.
-* **Consultas SQL Complexas:** Extração e manipulação de dados de alta performance.
+JUnit · Spring Boot Test · Testcontainers · Vitest · React Testing Library
 
-#### Tecnologias Utilizadas
-* `React` • `Node.js` • `SQL`
+## DevOps & Infrastructure
 
-#### Links do Projeto
-* **Repositório Frontend:** [GitHub - app-portal](https://github.com/ronneyrv/app-portal)
-* **Repositório API:** [GitHub - api-portal](https://github.com/ronneyrv/api-portal)
----
-## Estatísticas GitHub
+Git · GitHub · GitHub Actions · Docker · Docker Compose · Vercel · CI/CD
 
-<div align="center">
+## Database & Application Engineering
 
-<img align="middle" width="31%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronneyrv&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
-
-<img align="middle" width="28%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronneyrv&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
-
-<img align="middle" width="31%" src="https://streak-stats.demolab.com?user=ronneyrv&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d"/>
-
-</div>
+Flyway · JWT · API design · Domain modeling · Database migrations · Error handling · Health checks · Backup and recovery
 
 ---
-## Contato
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/ronney-rocha
+# Engineering Practices
 
-📧 E-mail  
-ronneyrv@gmail.com
+### Architecture
 
-📱 Telefone  
-+55 (85) 98208-4082
+- Separation of application responsibilities
+- Domain-oriented organization
+- Feature-based frontend architecture
+- Reusable UI components
+- Centralized API integration
+- Explicit domain models
+
+### Security
+
+- Authentication and authorization
+- JWT
+- Protected application routes
+- Secure API access
+- Environment-based configuration
+
+### Testing
+
+- Unit testing
+- Integration testing
+- API testing
+- Component testing
+- Testcontainers
+- Automated test execution
+
+### Delivery
+
+- Git-based development workflow
+- Feature branches
+- Conventional Commits
+- Pull Requests
+- Automated validation
+- CI/CD
+- Containerized deployment
+
+### Production Reliability
+
+- Health checks
+- Deployment validation
+- Rollback strategies
+- Database backups
+- Disaster recovery planning
+- Environment separation
+
+---
+
+# Professional Focus
+
+I am currently focused on software development opportunities, especially roles involving:
+
+- Java
+- Spring Boot
+- Backend development
+- REST APIs
+- PostgreSQL
+- Full Stack development
+
+I am particularly interested in environments where I can continue deepening my backend expertise while contributing to complete software products and production-oriented engineering practices.
+
+---
+
+# Education
+
+### Education
+
+**Systems Analysis and Development — Centro Universitário Farias Brito (FBUNI)**  
+Currently pursuing a degree.
+
+**Production Engineering — Centro Universitário FATENE (UNIFATENE)**  
+Degree completed in 2022.
+
+# Languages
+
+- Portuguese — Native
+- English — Intermediate
+
+---
+
+# Contact
+
+[LinkedIn](https://www.linkedin.com/in/ronney-rocha)
+
+Email: ronneyrv@gmail.com
