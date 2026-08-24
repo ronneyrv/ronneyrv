@@ -162,8 +162,7 @@ A full-stack portfolio application created to present projects, technical skills
 
 ### Resources
 
-- [Live Application](https://portfolio-web-chi-blush.vercel.app/)
-- [API Documentation](https://portfolio-api-5kec.onrender.com/swagger-ui/index.html)
+- [Live Application](https://ronneyrocha.com.br/)
 - [Frontend Repository](https://github.com/ronneyrv/portfolio-web)
 - [Backend Repository](https://github.com/ronneyrv/portfolio-api)
 
